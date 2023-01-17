@@ -3,7 +3,6 @@
 🪐🪐🪐🪐🪐🪐🪐🪐🪐
 >
 A quick glimpse into our neighboring <strong>Martian Terra!</strong> 
-<iframe width="648" height="365" src="https://www.youtube.com/embed/X2UaFuJsqxk" title="Curiosity Mars Rover Snaps 1.8 Billion-Pixel Panorama (narrated video)" frameborder="0" allow="accelerometer; autoplay; muted="true"; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 >
 👽👽👽👽👽👽👽👽👽
 >
